@@ -1,0 +1,72 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-color: black;
+}
+
+.tp-btn {
+    -webkit-border-radius: 6;
+    -moz-border-radius: 6;
+    border-radius: 6px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    border: solid #99011d 2px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10px;
+    background: #99011E;
+    text-decoration: none;
+    display: block;
+    text-align:center
+  }
+  
+  .tp-btn:hover {
+    padding: 10px 20px 10px 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10px;
+    background: #b80428;
+    text-decoration: none;
+    display: block;
+    text-align:center
+  }
+
+
+.container {
+    display: block;
+}
+
+.quote {
+    text-align:center;
+    color: white;
+    font-size: 17px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    padding-bottom: 10px;
+}
+
+.nickname {
+    
+    text-align:center;
+    color: white;
+    font-size: 26px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border: 0px;
+    width: 70px;
+    height: 70px;
+}
+
